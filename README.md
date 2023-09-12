@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=E42CF7&center=true&vCenter=true&width=435&lines=Hello+!;I'm+Anthony;Welcome+to+my+profile)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E213F7&center=true&width=435&lines=Hello+!+;I'm+Anthony;Welcome+to+my+profile)](https://git.io/typing-svg)
   
 <br><br>
 
 
-## :speech_balloon: To know me  
+## :speech_balloon: A little bit about me 
 *** 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br><br>
 
-## Stats
+## :zap: Stats
 ***
 
 <br>
