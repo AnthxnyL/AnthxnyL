@@ -26,7 +26,7 @@
      {
        movie: [ 'My favorite movie is Wiplash by Damien Chazelle' ],
        music: [ 'I like listening to rap from any period' ],
-       opinion: [ 'Christiano Ronaldo is the real GOAT' ]
+       opinion: [ 'Cristiano Ronaldo is the real GOAT' ]
       }
    end
  end
