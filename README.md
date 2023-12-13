@@ -7,31 +7,18 @@
 *** 
 <br>
 
- ``` ruby
- class Anthony < Person
-   def initialize
-     @name = 'Anthony'
-     @age = 21
-     @Nationalité = 'French'
-     @education = 'at IIM in La Défence'
-     @hobbies = [ 'Music', 'Anime', 'Travel' ]
-   end
 
-   def current_location
-     'Paris, France'
-   end
+👨🏻‍💻 Je travaille actuellement sur la réalisation d'un site de consulting 
+🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur
+💻 Mes expériences : 
+          - Web designer pour une marque de vêtements
+          - Front-end dev pour une agence de conseils
+          - Assistant marketing pour une start-up
 
-
-   def facts
-     {
-       movie: [ 'My favorite movie is Wiplash by Damien Chazelle' ],
-       music: [ 'I like listening to rap from any period' ],
-       opinion: [ 'Cristiano Ronaldo is the real GOAT' ]
-      }
-   end
- end
- ```
-
+## :eyes: You can find me there
+***
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lopes-94b415231/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonylopes037@gmail.com)
 <br><br>
 
 
@@ -55,10 +42,6 @@
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthxnyL&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthxnyL&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Anthxny's Top Languages" >
 
 <br><br>
 
