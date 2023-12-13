@@ -8,15 +8,16 @@
 <br>
 
 
-👨🏻‍💻 Je travaille actuellement sur la réalisation d'un site de consulting <br>
-🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur <br>
-💻 Mes expériences : 
+<h3>👨🏻‍💻 Je travaille actuellement sur la réalisation d'un site de consulting </h3> <br>
+<h3>🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur </h3><br>
+<h3>💻 Mes expériences : 
 
   <ul>
       <li> Web designer pour une marque de vêtements </li>
       <li>Front-end dev pour une agence de conseils  </li>
       <li>Assistant marketing pour une start-up </li>
   </ul>
+</h3>
 
 ## :eyes: You can find me there
 ***
