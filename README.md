@@ -44,7 +44,7 @@
 
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthxnyL&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthxnyL&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Anthxny's Top Languages" >
 
 <br><br>
 
