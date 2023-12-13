@@ -8,12 +8,14 @@
 <br>
 
 
-👨🏻‍💻 Je travaille actuellement sur la réalisation d'un site de consulting 
-🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur
-💻 Mes expériences : 
-          - Web designer pour une marque de vêtements
-          - Front-end dev pour une agence de conseils
-          - Assistant marketing pour une start-up
+👨🏻‍💻 Je travaille actuellement sur la réalisation d'un site de consulting <br>
+🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur <br>
+<ul>
+💻 Mes expériences : <br>
+          <li> Web designer pour une marque de vêtements </li>
+          <li>Front-end dev pour une agence de conseils  </li>
+          <li>Assistant marketing pour une start-up </li>
+</ul>
 
 ## :eyes: You can find me there
 ***
