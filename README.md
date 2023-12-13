@@ -12,7 +12,7 @@
 🔭 Je suis à la recherche d'une alternance en tant qu'apprenti Front-end Developpeur <br>
 💻 Mes expériences : 
 
- <br> <ul>
+  <ul>
       <li> Web designer pour une marque de vêtements </li>
       <li>Front-end dev pour une agence de conseils  </li>
       <li>Assistant marketing pour une start-up </li>
